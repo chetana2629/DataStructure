@@ -1,0 +1,56 @@
+PG-DAC March-23
+Practice Data Structure Questions
+METIIT CDAC-ATC
+
+
+
+
+Batch PGDAC MARCH-2023
+
+Practice Lab Question
+
+Module Name:  Algorithms and Data Structures Using Java .
+
+Q.1 Implement linear probing using 2D array (bucketing) using same H(x)=x%10
+
+Q. 2 Double circular linked list.
+
+Q.3 Implement linked list sorting function.
+
+Q.4 implement code and merge and linked list.
+
+Q. 5
+Using
+Two Queues
+The idea is to implement the queue’s enqueue operation such that
+the last entered item always ends up at the queue’s front. To achieve this, we
+need an additional queue.
+1.
+To push an item into the stack, first move all elements from the
+first queue to the second queue, then enqueue the new item into the first
+queue, and finally move all elements back to the first queue. This ensures that
+the new item lies in front of the queue and hence would be the first one to be
+removed.
+2.
+To pop an item from the stack, return the front item from the
+first queue.
+
+4.Check
+if an expression is balanced or not.
+
+Q. 5
+? Implement stack through array 
+? Implement queues with inserting element at different location (First, Last) 
+? Implement circular queue 
+
+Q. 6
+
+1. Create  Project on Linked List with following
+terms.
+  1. Create Linked List
+  2. Print Linked List
+  3. Insert Node Left Side (Consider Data Value).
+  4. Insert Node Right Side (Consider Data Value).
+  5. Delete Node From Linked List.
+  6. Count Total Node of Linked List.
+(Used Singly or Doubly Linked List)
